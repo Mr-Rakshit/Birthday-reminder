@@ -1,1 +1,1 @@
-# Birthday-reminder
+# Birthday reminder
